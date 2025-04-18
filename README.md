@@ -10,7 +10,7 @@ The evaluation includes metrics such as:
 
 ## 🧾 Project Contents
 
-- `Topsis_PreTrained_Models_Text_Classification.ipynb`: Main notebook containing code to load models, perform classification, and evaluate them.
+- `Topsis_PreTrained_Models.ipynb`: Main notebook containing code to load models, perform classification, and evaluate them.
 - ✅ Uses Hugging Face models already fine-tuned on AG News.
 - ✅ Uses a subset of 200 test samples for fast comparison.
 
